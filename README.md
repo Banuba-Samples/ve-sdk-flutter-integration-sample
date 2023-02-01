@@ -13,8 +13,7 @@ We will get back to you with the trial token.
 Feel free to [contact us](https://www.banuba.com/faq/kb-tickets/new) if you have any questions.
 
 ### Installation
-1. Run ```flutter pub get``` in terminal to load dependencies.
-2. Set Banuba license token [within the app](lib/main.dart#L43).
+Run ```flutter pub get``` in terminal to load dependencies.
 
 ### Run on Android
 1. Run ```flutter run``` in terminal to launch the sample app on a device or launch the app in IDE i.e. Intellij, VC, etc.

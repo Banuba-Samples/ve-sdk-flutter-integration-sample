@@ -40,7 +40,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
 // Set Banuba license token for Video Editor SDK
-  static const String LICENSE_TOKEN = SET LICENSE TOKEN
+  static const String LICENSE_TOKEN = "IxzxOd0BwzSeU7dPz5VUaTRKfl6KoEI4M7W1GH3HmBnIrkvZ5UFkfyXBArfdDPJ+ruILLhDjOrIbQji4RQLoFqZ6zIvTZOOVAcdrM/qGgzdNiv1jLHq12mexlUOOm7mxDBeuccYFsN5AggiYDzhEQAD42AxMTvFOvMP+3tmO8h9yOzUbFjK4AlOFL0jWE703NrxoOfEs59baKN/qhivObFZ5KlD8Qe/jWUKCmS7S/U3uQaw/34z7YsRXtoxZp2Pp2Hs/r+Id2/7WwqUx4N3+g75l5B1UwBsQv73urcNXlx4AeW+3p5opSq9L4TGg0+ZrRBvzffK5uUkZyaDTNmyca7Bxn4Xq9RAcNUtdijPckDB9Z1kGxCTsnEtYif1xEk0tEfAfowi5yzbo7N2XajwXILQu8/PoWoDpARNghaVXd49g3xsAyAud47PUeEBuUYfZPkyB4LZwEdDnfs13xxV9gpHgjFln48Wsgz9UKeM/7lvsoU98aWLae2ls2u8MthwIVy5ZHJRyrAypEqvOhn2eYdbQZ1k4LVVBOJdCCwizABWkTICFqw==";
 
   static const channelName = 'startActivity/VideoEditorChannel';
 
