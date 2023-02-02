@@ -4,10 +4,6 @@ The following guide covers basic integration process into your Flutter project
 where required part of an integration and customization of Banuba Video Editor SDK is implemented in **android** directory
 of your Flutter project using native Android development process.
 
-### Prerequisite
-:exclamation: The license token **IS REQUIRED** to run sample and an integration into your app.  
-Please follow [Installation](../README.md#Installation) guide if the license token is not set.
-
 ### Add SDK dependencies
 Add Banuba repositories in [project gradle](../android/build.gradle#L55) file to get Video Editor SDK and AR Cloud dependencies.
 
